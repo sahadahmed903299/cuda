@@ -1,0 +1,313 @@
+@media screen and (max-width:1100px) {
+    .contaner{
+        width: 90%;
+    }
+    .menu_nav ul li{
+        margin-right: 0px;
+        margin-top: 35px;
+    }
+    .text_box{
+        font-size: 16pt;
+    }
+    .icons{
+        grid-gap: 10px;
+    }
+    .icons img{
+        width: 90px;
+    }
+    .icons div:first-child img{
+        margin-bottom: 26px;
+    }
+    .icons div:nth-child(3) img{
+        margin-bottom: 50px;
+    }
+    .team_imgs{
+        grid-gap: 10px;
+    }
+    .radial-progress{
+        margin-left: 8px;
+    }
+    .testimonial_contant{
+        margin-left: 100px;
+    }
+    form{
+        margin-left: 8%;
+    }
+    form input[type="text"],
+    form input[type="email"]{
+        padding-right: 145px;
+    }
+
+
+
+    .menu_nav ul{
+        display: none;
+    }
+    .mobile span{
+        display: inline;
+    }
+    .activate{
+        background: none;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .team_member2_symbol{
+        margin-top: 65px;
+    }
+}
+@media screen and (max-width:980px) {
+    .team_member2_symbol{
+        margin-top: 40px;
+    }
+}
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2){
+    .text_box{
+        font-size: 6pt;
+        text-align: center;
+    }
+    .work_with_us{
+        width: 140px;
+        
+    }
+    .work_with_us a{
+        font-size: 6pt;
+        padding: 10px 30px;
+    }
+    .service{
+        padding: 30px 0px;
+    }
+    .service p{
+        font-size: 8px;
+        line-height: 15px;
+    }
+    .service h3{
+        font-size: 12px;
+    }
+    .service_hedding h2{
+        font-size: 15px;
+    }
+    .service_hedding{
+        margin-bottom: 15px;
+    }
+    .icons{
+        grid-template-columns: auto auto;
+    }
+    .icons img{
+        width: 40px;
+    }
+    .icons h3{
+        margin-top: 15px;
+        margin-right: 20px;
+    }
+    .icons p{
+        margin-top: 15px;
+        margin-right: 20px;
+    }
+    .icons div:nth-child(3) img{
+        margin-bottom: 15px;
+        margin-top: 10px;
+    }
+    .team{
+        padding: 30px 0px;
+    }
+    .team h2{
+        font-size: 15px;
+    }
+    .team p{
+        font-size: 8px;
+        line-height: 15px;
+    }
+    .team_hedder h3{
+        margin-bottom: 10px;
+    }
+    .team_hedder p{
+        margin: 0px 30px;
+    }
+    .team_imgs{
+        grid-template-columns: auto auto;
+    }
+    .team_imgs img{
+        width: 80px;
+        margin: 20px;
+    }
+    .team_hedder h3{
+        font-size: 15px;
+    }
+    .team_imgs p{
+        margin: 10px 0px 0px 0px;
+
+    }
+    .team a i{
+        font-size: 30px;
+        width: 15px;
+    }
+    .team_member1_symbol,
+    .team_member2_symbol,
+    .team_member3_symbol,
+    .team_member4_symbol{
+        margin-top: 20px;
+    }
+    .skills_hedder h3{
+        font-size: 15px;
+    } 
+    .skills_hedder p{
+        margin: 0px;
+    }
+    .skills p{
+        font-size: 8px;
+        line-height: 15px;
+    }  
+    .skills h4{
+        font-size: 15px;
+    }
+    .skills_contants{
+        grid-template-columns: 50% 50%;
+        
+    }
+    .radial-progress{
+        margin-left: 0px;
+        width: 00px;
+    }
+    .radial-progress .incomplete,
+    .radial-progress .complete{
+        stroke-width: 3px;
+    }
+    .svg h4{
+        margin-bottom: 20px;
+        margin-top: 10px;
+    }
+    .portfolio p{
+        line-height: 15px;
+    }
+    .portfolio_hedder{
+        margin-top: 30px;
+    }
+    .portfolio_hedder h3{
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .portfolio_hedder P{
+        font-size: 8px;
+        margin: 0px;
+    }
+    .portfolio_buttons{
+        margin-top: 20px;
+    }
+    .portfolio_buttons button{
+        font-size: 8px;
+        margin-right: 5px;
+        padding: 5px 10px;
+    }
+    .portfolio_imgs img{
+        width: 130px;
+    }
+    .portfolio_imgs h4{
+        font-size: 8px;
+    }
+    .testimonial p{
+        font-size: 8px;
+        line-height: 15px;
+    }
+    .testimonial_hedder{
+        margin-bottom: 20px;
+    }
+    .testimonial_hedder h3{
+        margin-top: 30px;
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    .testimonial_contant{
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    .testimonial_contant img{
+        width: 50px;
+    }
+    .testimonial_contant p{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 60px;
+        margin-right: 20px;
+    }
+    .member4 p{
+        margin-bottom: 4px;
+        line-height: 14px;
+    }
+    .testimonial_contant .deu,
+    .testimonial_contant h4{
+        margin-left: 50px;
+    }
+    .testimonial_contant h4{
+        font-size: 10px;
+    }
+    .contect p{
+        font-size: 8px;
+        line-height: 15px;
+    }
+    .contect_hedder h3{
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .contect_hedder p{
+        margin: 0px;
+        margin-bottom: 20px;
+    }
+    form{
+        width: 90%;
+    }
+    form input[type="text"],
+    form input[type="email"]{
+        font-size: 8px;
+        padding: 10px 30px 10px 15px;
+        width: 48%;
+    }
+    form textarea{
+        font-size: 8px;
+        width: 100%;
+        padding: 10px 132px 0px 10px;
+    }
+    .submit{
+        width: 30%;
+    }
+    .submit input{
+        font-size: 8px;
+        padding: 10px 30px;
+        box-shadow: 0px 2px #299ec5;
+    }
+    .fotter li{
+        margin: 5px;
+    }
+    .fotter li a{
+        font-size: 8px;
+    }
+    
+}
+@media screen and (max-width:412px){
+    .submit{
+        width: 35%;
+    }
+}
+@media screen and (max-width:390px){
+    .submit{
+        width: 38%;
+    }
+}
+@media screen and (max-width:375px){
+    .submit{
+        width: 38%;
+    }
+}
+@media screen and (max-width:360px){
+    .submit{
+        width: 40%;
+    }
+}
+@media screen and (max-width:320px){
+    .submit{
+        width: 45%;
+    }
+}
